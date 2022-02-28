@@ -1,0 +1,12 @@
+
+.folder {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    width: 240px;
+    flex-wrap: wrap;
+}
+
+.menu {
+    transform: rotate(90deg);
+    align-self: flex-start;
+}
